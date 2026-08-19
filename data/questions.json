@@ -1,0 +1,669 @@
+{
+  "PE1": [
+    {
+      "type": "identification",
+      "question": "What are modern physical education activities based on?",
+      "answer": "natural education of the primitive times"
+    },
+    {
+      "type": "identification",
+      "question": "What basic survival skill is mentioned as an example of early physical education?",
+      "answer": "hunting"
+    },
+    {
+      "type": "identification",
+      "question": "What ancient Greek text contains the first known literary reference to an athletic competition?",
+      "answer": "Iliad"
+    },
+    {
+      "type": "identification",
+      "question": "Who is the author of the ancient Greek text the Iliad?",
+      "answer": "Homer"
+    },
+    {
+      "type": "identification",
+      "question": "When did the Ancient Greek tradition of the Olympic Games originate?",
+      "answer": "early 8th century BC"
+    },
+    {
+      "type": "identification",
+      "question": "Who is known as the Father of Modern Physical Education?",
+      "answer": "Friedrich Ludwig Jahn"
+    },
+    {
+      "type": "identification",
+      "question": "In what specific discipline were Friedrich Ludwig Jahn's main contributions to physical education?",
+      "answer": "gymnastics"
+    },
+    {
+      "type": "identification",
+      "question": "What DECS Order series of 1990 stipulates the service physical education subjects given to college freshmen and sophomores?",
+      "answer": "DECS Order NO. 58, series of 1990"
+    },
+    {
+      "type": "identification",
+      "question": "Which college PE subject covers the essentials of physical fitness components and self-testing activities?",
+      "answer": "Physical Education 1"
+    },
+    {
+      "type": "identification",
+      "question": "What is the official title of Physical Education 1 in college?",
+      "answer": "Physical Fitness and Self-Testing Activities"
+    },
+    {
+      "type": "identification",
+      "question": "Which college PE subject focuses on rhythm, fundamental rhythmic activities, dance mixers, local and foreign dances, and social dances?",
+      "answer": "Physical Education 2"
+    },
+    {
+      "type": "identification",
+      "question": "What is the official title of Physical Education 2 in college?",
+      "answer": "Rhythmic Activities"
+    },
+    {
+      "type": "identification",
+      "question": "Which college PE subject deals with skills in recreational activities like bowling, table tennis, badminton, track and field, and includes Mga Laro ng Lahi?",
+      "answer": "Physical Education 3"
+    },
+    {
+      "type": "identification",
+      "question": "What is the official title of Physical Education 3 in college?",
+      "answer": "Individual and Dual Sports/ Games"
+    },
+    {
+      "type": "identification",
+      "question": "Which college PE subject emphasizes fundamental skills of common team sports such as volleyball, basketball, and baseball/softball?",
+      "answer": "Physical Education 4"
+    },
+    {
+      "type": "identification",
+      "question": "What is the official title of Physical Education 4 in college?",
+      "answer": "Team Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What is described as the most efficient swimming stroke?",
+      "answer": "Freestyle"
+    },
+    {
+      "type": "identification",
+      "question": "Which swimming stroke is simply described with the word 'most'?",
+      "answer": "Butterfly stroke"
+    },
+    {
+      "type": "identification",
+      "question": "What was the first ever swimming stroke made or done?",
+      "answer": "Dog Paddle"
+    },
+    {
+      "type": "identification",
+      "question": "What is the official swimming pool size mentioned in the text?",
+      "answer": "20x50"
+    },
+    {
+      "type": "identification",
+      "question": "What is the adequate depth for diving according to the text?",
+      "answer": "10ft"
+    },
+    {
+      "type": "identification",
+      "question": "Which type of dance is associated with Gods and Goddesses?",
+      "answer": "Ritual dance"
+    },
+    {
+      "type": "identification",
+      "question": "Which type of dance uses brass type of instruments?",
+      "answer": "Ethnic dance"
+    },
+    {
+      "type": "identification",
+      "question": "What type of gymnastics uses light apparatus like ribbons, wands, hoops, balls, and rings?",
+      "answer": "Rhythmic Gymnastics"
+    },
+    {
+      "type": "identification",
+      "question": "What type of gymnastics uses heavy apparatus like pommel horse, balance beam, vaulting box, horizontal bar, and rings?",
+      "answer": "Artistic"
+    },
+    {
+      "type": "identification",
+      "question": "What is another name for Laro ng Lahi?",
+      "answer": "Traditional Filipino Games"
+    },
+    {
+      "type": "identification",
+      "question": "What is another name for Indigenous Games according to the text?",
+      "answer": "Mind Games"
+    },
+    {
+      "type": "enumeration",
+      "question": "List the 3 Domains of Learning in physical education.",
+      "answer": [
+        "Psychomotor",
+        "Cognitive",
+        "Affective"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the 4 Objectives of Physical Education.",
+      "answer": [
+        "Emotional",
+        "Social",
+        "Mental",
+        "Physical"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List ancient cultures that existed before the Greeks that had traditions of physical education and activity.",
+      "answer": [
+        "ancient Chinese",
+        "Indian",
+        "Egyptian"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the four college levels/semesters associated with service Physical Education as stipulated in DECS Order NO. 58.",
+      "answer": [
+        "freshmen",
+        "sophomores"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the four swimming strokes specified in the Swimming section of PE phases.",
+      "answer": [
+        "Freestyle",
+        "Backstroke",
+        "Breast stroke",
+        "Butterfly stroke"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the two types of folk dance.",
+      "answer": [
+        "national dance",
+        "local dance"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the two classifications under Ballroom dance/social dance.",
+      "answer": [
+        "Standard",
+        "Latin"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the sub-styles/types listed under Modern Dance.",
+      "answer": [
+        "hiphopm",
+        "wave",
+        "punk"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List all 8 types of dances listed under the Dances phase.",
+      "answer": [
+        "Folk Dance",
+        "Tribal Dance",
+        "Ritual dance",
+        "Ethnic dance",
+        "Ballroom dance/social dance",
+        "Modern Dance",
+        "Jazz",
+        "Ballet"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the 3 Self Testing Activities mentioned.",
+      "answer": [
+        "Stunts",
+        "Humbling",
+        "Pyramid building"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List light apparatus used in Rhythmic Gymnastics.",
+      "answer": [
+        "ribbons",
+        "wands",
+        "hoops",
+        "balls",
+        "rings"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List heavy apparatus used in Artistic Gymnastics.",
+      "answer": [
+        "pommel horse",
+        "balance bean",
+        "vaulting box",
+        "horizontal bar",
+        "ring"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the examples given for Laro ng Lahi.",
+      "answer": [
+        "tumbang preso",
+        "kadang kadang",
+        "luksong baka",
+        "luksong tinik"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the examples given for Indigenous Games.",
+      "answer": [
+        "scrabble",
+        "games of the general",
+        "chess"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the examples given for Parlor Games.",
+      "answer": [
+        "trip to Jerusalem",
+        "newspaper dance",
+        "egg relay"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the three types of events in Track and Field.",
+      "answer": [
+        "running event",
+        "jumping event",
+        "throwing event"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the 9 Individual Sports listed in the source text.",
+      "answer": [
+        "Track and Field",
+        "Swimming",
+        "Cycling",
+        "Gymnastics",
+        "Equestrian",
+        "Archery",
+        "Bowling",
+        "Weight lifting",
+        "Diving"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the 5 Dual Sports listed in the source text.",
+      "answer": [
+        "Lawn Tennis",
+        "Table Tennis",
+        "Badminton",
+        "Fencing",
+        "Chess"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the 8 Team Sports listed in the source text.",
+      "answer": [
+        "Basketball",
+        "Volleyball",
+        "Baseballl",
+        "Softball",
+        "SOccer",
+        "Beach Valley",
+        "Sepak Takraw",
+        "Rugby"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the 4 Combative Sports listed in the source text.",
+      "answer": [
+        "Wrestling",
+        "Taekwondo",
+        "Boxing",
+        "Karate"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the 6 Recreational Activities listed in the source text.",
+      "answer": [
+        "Dancing",
+        "Cooking",
+        "Singing",
+        "Gardening",
+        "Collections",
+        "Outing"
+      ]
+    },
+    {
+      "type": "identification",
+      "question": "Besides 'physical education', what are two other names mentioned for the subject?",
+      "answer": "physical training or gym"
+    },
+    {
+      "type": "identification",
+      "question": "What setting does physical education utilize learning in cognitive, affective, and psychomotor domains?",
+      "answer": "play or movement exploration setting"
+    },
+    {
+      "type": "identification",
+      "question": "Where is the real history of physical education found according to the text?",
+      "answer": "changing methodologies used to transmit physical skills and to lesser extent, the varying intentions of the educator"
+    },
+    {
+      "type": "identification",
+      "question": "Which influence is argued to be the most fundamental to how physical education is viewed today?",
+      "answer": "Greek influence"
+    },
+    {
+      "type": "identification",
+      "question": "How is Physical Education defined in the section 'What is Physical Education?'?",
+      "answer": "Interdisciplinary study of all areas of science relating to the transmission of physical knowledge and skills to an individual or a group, the application of these skills and their results"
+    },
+    {
+      "type": "identification",
+      "question": "Through what does Physical Education aim to contribute to the total development of the learner?",
+      "answer": "participation in selected activities"
+    },
+    {
+      "type": "enumeration",
+      "question": "List the four areas of learner development that PE provides lifelong skills for.",
+      "answer": [
+        "physical",
+        "mental",
+        "social",
+        "emotional"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the five areas involved in a school curriculum PE program of activities.",
+      "answer": [
+        "sports",
+        "games",
+        "dance",
+        "gymnastics",
+        "recreational activities"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the five aspects where great emphasis is placed in Physical Education.",
+      "answer": [
+        "motor skills",
+        "fitness",
+        "health",
+        "recreation",
+        "safety"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the 4 ways an individual is optimumly developed through total movement in PE.",
+      "answer": [
+        "physiacallym",
+        "socially",
+        "emotionally",
+        "mentally"
+      ]
+    },
+    {
+      "type": "identification",
+      "question": "How many total PE subjects are given to college freshmen and sophomores according to DECS Order NO. 58?",
+      "answer": "four"
+    },
+    {
+      "type": "identification",
+      "question": "In Physical Education 3, what recreational sports skills are listed?",
+      "answer": "bowling, table tennis, badmintion, track and field events"
+    },
+    {
+      "type": "identification",
+      "question": "What is the love of country aspect fostered by in Physical Education 3?",
+      "answer": "Mga Laro ng Lahi"
+    },
+    {
+      "type": "identification",
+      "question": "What three common team sports are explicitly listed as examples in Physical Education 4?",
+      "answer": "volleyball, basketball, baseball/softball"
+    },
+    {
+      "type": "identification",
+      "question": "Which domain of learning pertains to physical and motor skill development?",
+      "answer": "Psychomotor"
+    },
+    {
+      "type": "identification",
+      "question": "Which domain of learning pertains to mental processes and knowledge acquisition?",
+      "answer": "Cognitive"
+    },
+    {
+      "type": "identification",
+      "question": "Which domain of learning pertains to values, feelings, and attitudes?",
+      "answer": "Affective"
+    },
+    {
+      "type": "identification",
+      "question": "Which phase of physical education includes strokes, pool dimensions, and diving depths?",
+      "answer": "Swimming"
+    },
+    {
+      "type": "identification",
+      "question": "Which phase of physical education contains Stunts, Humbling, and Pyramid building?",
+      "answer": "Self Testing Activities"
+    },
+    {
+      "type": "identification",
+      "question": "What typo is present in the text for the self-testing activity 'Tumbling'?",
+      "answer": "Humbling"
+    },
+    {
+      "type": "identification",
+      "question": "What apparatuses are classified as heavy apparatus in Gymnastics?",
+      "answer": "pommel horse, balance bean, vaulting box, horizontal bar, ring"
+    },
+    {
+      "type": "identification",
+      "question": "What typo is present in the text for the balance beam in Artistic Gymnastics?",
+      "answer": "balance bean"
+    },
+    {
+      "type": "identification",
+      "question": "What category of games includes trip to Jerusalem, newspaper dance, and egg relay?",
+      "answer": "Parlor Games"
+    },
+    {
+      "type": "identification",
+      "question": "Which sport is listed as both an Individual Sport and a Dual Sport under different context in the text?",
+      "answer": "Chess"
+    },
+    {
+      "type": "identification",
+      "question": "Which team sport is spelled with three 'l's in the text?",
+      "answer": "Baseballl"
+    },
+    {
+      "type": "identification",
+      "question": "Which team sport is written as 'Beach Valley' in the text?",
+      "answer": "Beach Valley"
+    },
+    {
+      "type": "identification",
+      "question": "From what language origin is 'Recreational Activities' derived according to the text?",
+      "answer": "latin word"
+    },
+    {
+      "type": "identification",
+      "question": "Is hunting listed as a survival skill in primitive times?",
+      "answer": "Yes"
+    },
+    {
+      "type": "identification",
+      "question": "Which country was Friedrich Ludwig Jahn highly political within?",
+      "answer": "Germany"
+    },
+    {
+      "type": "identification",
+      "question": "What type of sports are Lawn Tennis, Table Tennis, Badminton, Fencing, and Chess?",
+      "answer": "Dual Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What type of sports are Wrestling, Taekwondo, Boxing, and Karate?",
+      "answer": "Combative Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Track and Field belong to?",
+      "answer": "Individual Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Cycling belong to?",
+      "answer": "Individual Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Equestrian belong to?",
+      "answer": "Individual Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Archery belong to?",
+      "answer": "Individual Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Bowling belong to in the Individual Sports list?",
+      "answer": "Individual Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Weight lifting belong to?",
+      "answer": "Individual Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Diving belong to?",
+      "answer": "Individual Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Basketball belong to?",
+      "answer": "Team Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Volleyball belong to?",
+      "answer": "Team Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Softball belong to?",
+      "answer": "Team Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Soccer belong to (spelled SOccer in text)?",
+      "answer": "Team Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Sepak Takraw belong to?",
+      "answer": "Team Sports"
+    },
+    {
+      "type": "identification",
+      "question": "What category of sports does Rugby belong to?",
+      "answer": "Team Sports"
+    },
+    {
+      "type": "enumeration",
+      "question": "List the games listed under Parlor Games.",
+      "answer": [
+        "trip to Jerusalem",
+        "newspaper dance",
+        "egg relay"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the games listed under Laro ng Lahi.",
+      "answer": [
+        "tumbang preso",
+        "kadang kadang",
+        "luksong baka",
+        "luksong tinik"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the games listed under Indigenous Game (Mind Games).",
+      "answer": [
+        "scrabble",
+        "games of the general",
+        "chess"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the sports under Combative Sports.",
+      "answer": [
+        "Wrestling",
+        "Taekwondo",
+        "Boxing",
+        "Karate"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List all 5 Dual Sports mentioned in the text.",
+      "answer": [
+        "Lawn Tennis",
+        "Table Tennis",
+        "Badminton",
+        "Fencing",
+        "Chess"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List all 8 Team Sports mentioned in the text.",
+      "answer": [
+        "Basketball",
+        "Volleyball",
+        "Baseballl",
+        "Softball",
+        "SOccer",
+        "Beach Valley",
+        "Sepak Takraw",
+        "Rugby"
+      ]
+    },
+    {
+      "type": "identification",
+      "question": "Is gymnastics listed under Individual Sports as well as its own phase?",
+      "answer": "Yes"
+    },
+    {
+      "type": "identification",
+      "question": "Is swimming listed under Individual Sports as well as its own phase?",
+      "answer": "Yes"
+    }
+  ]
+}
