@@ -2,16 +2,6 @@
   "PE1": [
     {
       "type": "identification",
-      "question": "What are modern physical education activities based on?",
-      "answer": "natural education of the primitive times"
-    },
-    {
-      "type": "identification",
-      "question": "What basic survival skill is mentioned as an example of early physical education?",
-      "answer": "hunting"
-    },
-    {
-      "type": "identification",
       "question": "What ancient Greek text contains the first known literary reference to an athletic competition?",
       "answer": "Iliad"
     },
@@ -322,7 +312,7 @@
         "Volleyball",
         "Baseballl",
         "Softball",
-        "SOccer",
+        "Soccer",
         "Beach Valley",
         "Sepak Takraw",
         "Rugby"
@@ -357,11 +347,6 @@
     },
     {
       "type": "identification",
-      "question": "What setting does physical education utilize learning in cognitive, affective, and psychomotor domains?",
-      "answer": "play or movement exploration setting"
-    },
-    {
-      "type": "identification",
       "question": "Where is the real history of physical education found according to the text?",
       "answer": "changing methodologies used to transmit physical skills and to lesser extent, the varying intentions of the educator"
     },
@@ -371,16 +356,6 @@
       "answer": "Greek influence"
     },
     {
-      "type": "identification",
-      "question": "How is Physical Education defined in the section 'What is Physical Education?'?",
-      "answer": "Interdisciplinary study of all areas of science relating to the transmission of physical knowledge and skills to an individual or a group, the application of these skills and their results"
-    },
-    {
-      "type": "identification",
-      "question": "Through what does Physical Education aim to contribute to the total development of the learner?",
-      "answer": "participation in selected activities"
-    },
-    {
       "type": "enumeration",
       "question": "List the four areas of learner development that PE provides lifelong skills for.",
       "answer": [
@@ -388,28 +363,6 @@
         "mental",
         "social",
         "emotional"
-      ]
-    },
-    {
-      "type": "enumeration",
-      "question": "List the five areas involved in a school curriculum PE program of activities.",
-      "answer": [
-        "sports",
-        "games",
-        "dance",
-        "gymnastics",
-        "recreational activities"
-      ]
-    },
-    {
-      "type": "enumeration",
-      "question": "List the five aspects where great emphasis is placed in Physical Education.",
-      "answer": [
-        "motor skills",
-        "fitness",
-        "health",
-        "recreation",
-        "safety"
       ]
     },
     {
@@ -509,11 +462,6 @@
     },
     {
       "type": "identification",
-      "question": "Is hunting listed as a survival skill in primitive times?",
-      "answer": "Yes"
-    },
-    {
-      "type": "identification",
       "question": "Which country was Friedrich Ludwig Jahn highly political within?",
       "answer": "Germany"
     },
@@ -579,7 +527,7 @@
     },
     {
       "type": "identification",
-      "question": "What category of sports does Soccer belong to (spelled SOccer in text)?",
+      "question": "What category of sports does Soccer belong to (spelled Soccer in text)?",
       "answer": "Team Sports"
     },
     {
@@ -649,7 +597,7 @@
         "Volleyball",
         "Baseballl",
         "Softball",
-        "SOccer",
+        "Soccer",
         "Beach Valley",
         "Sepak Takraw",
         "Rugby"
