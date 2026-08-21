@@ -146,15 +146,6 @@
     },
     {
       "type": "enumeration",
-      "question": "List ancient cultures that existed before the Greeks that had traditions of physical education and activity.",
-      "answer": [
-        "ancient Chinese",
-        "Indian",
-        "Egyptian"
-      ]
-    },
-    {
-      "type": "enumeration",
       "question": "List the four college levels/semesters associated with service Physical Education as stipulated in DECS Order NO. 58.",
       "answer": [
         "freshmen",
@@ -191,7 +182,7 @@
       "type": "enumeration",
       "question": "List the sub-styles/types listed under Modern Dance.",
       "answer": [
-        "hiphopm",
+        "hip hop",
         "wave",
         "punk"
       ]
@@ -310,7 +301,7 @@
       "answer": [
         "Basketball",
         "Volleyball",
-        "Baseballl",
+        "Baseball",
         "Softball",
         "Soccer",
         "Beach Valley",
@@ -423,7 +414,7 @@
     {
       "type": "identification",
       "question": "Which team sport is spelled with three 'l's in the text?",
-      "answer": "Baseballl"
+      "answer": "Baseball"
     },
     {
       "type": "identification",
@@ -565,7 +556,7 @@
       "answer": [
         "Basketball",
         "Volleyball",
-        "Baseballl",
+        "Baseball",
         "Softball",
         "Soccer",
         "Beach Valley",
