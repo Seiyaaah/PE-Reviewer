@@ -467,7 +467,7 @@
     },
     {
       "type": "identification",
-      "question": "What category of sports does Bowling belong to in the Individual Sports list?",
+      "question": "What category of sports does Bowling belong to ?",
       "answer": "Individual Sports"
     },
     {
