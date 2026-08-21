@@ -342,16 +342,6 @@
     },
     {
       "type": "identification",
-      "question": "Besides 'physical education', what are two other names mentioned for the subject?",
-      "answer": "physical training or gym"
-    },
-    {
-      "type": "identification",
-      "question": "Where is the real history of physical education found according to the text?",
-      "answer": "changing methodologies used to transmit physical skills and to lesser extent, the varying intentions of the educator"
-    },
-    {
-      "type": "identification",
       "question": "Which influence is argued to be the most fundamental to how physical education is viewed today?",
       "answer": "Greek influence"
     },
@@ -369,7 +359,7 @@
       "type": "enumeration",
       "question": "List the 4 ways an individual is optimumly developed through total movement in PE.",
       "answer": [
-        "physiacallym",
+        "physically",
         "socially",
         "emotionally",
         "mentally"
@@ -379,16 +369,6 @@
       "type": "identification",
       "question": "How many total PE subjects are given to college freshmen and sophomores according to DECS Order NO. 58?",
       "answer": "four"
-    },
-    {
-      "type": "identification",
-      "question": "In Physical Education 3, what recreational sports skills are listed?",
-      "answer": "bowling, table tennis, badmintion, track and field events"
-    },
-    {
-      "type": "identification",
-      "question": "What is the love of country aspect fostered by in Physical Education 3?",
-      "answer": "Mga Laro ng Lahi"
     },
     {
       "type": "identification",
@@ -428,12 +408,7 @@
     {
       "type": "identification",
       "question": "What apparatuses are classified as heavy apparatus in Gymnastics?",
-      "answer": "pommel horse, balance bean, vaulting box, horizontal bar, ring"
-    },
-    {
-      "type": "identification",
-      "question": "What typo is present in the text for the balance beam in Artistic Gymnastics?",
-      "answer": "balance bean"
+      "answer": "pommel horse, balance beam, vaulting box, horizontal bar, ring"
     },
     {
       "type": "identification",
@@ -449,11 +424,6 @@
       "type": "identification",
       "question": "Which team sport is spelled with three 'l's in the text?",
       "answer": "Baseballl"
-    },
-    {
-      "type": "identification",
-      "question": "Which team sport is written as 'Beach Valley' in the text?",
-      "answer": "Beach Valley"
     },
     {
       "type": "identification",
@@ -602,16 +572,6 @@
         "Sepak Takraw",
         "Rugby"
       ]
-    },
-    {
-      "type": "identification",
-      "question": "Is gymnastics listed under Individual Sports as well as its own phase?",
-      "answer": "Yes"
-    },
-    {
-      "type": "identification",
-      "question": "Is swimming listed under Individual Sports as well as its own phase?",
-      "answer": "Yes"
     }
   ]
 }
